@@ -15,8 +15,13 @@
     "bin"
   ],
   "license": "MIT",
-  "preferGlobal": "true",
+  "preferGlobal": true,
   "bin": {
     "jg-package-2": "./bin/jg-package-2"
+  },
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "lodash": "^4.17.10",
+    "request": "^2.85.0"
   }
 }
