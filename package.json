@@ -1,6 +1,6 @@
 {
   "name": "jg-package-2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My 2nd package",
   "main": "./lib/jg-package-2",
   "repository": {
