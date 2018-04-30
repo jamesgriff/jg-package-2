@@ -1,0 +1,22 @@
+{
+  "name": "jg-package-2",
+  "version": "1.0.0",
+  "description": "My 2nd package",
+  "main": "./lib/jg-package-2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jamesgriff/jg-package-2"
+  },
+  "scripts": {
+    "start": "node ./bin/jg-package-2"
+  },
+  "files": [
+    "lib",
+    "bin"
+  ],
+  "license": "MIT",
+  "preferGlobal": "true",
+  "bin": {
+    "jg-package-2": "./bin/jg-package-2"
+  }
+}
